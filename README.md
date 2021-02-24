@@ -3,4 +3,4 @@
 
 # Proyecto 1: Lista del Super 🛒
 - Es un proyecto simple usando la maquetacion del **body** y tiene enlaces que te llevan a recetas con cada ingrediente!!
-- **[Dale click para ingresar](https://lolaso0.github.io/Curso-de-HTML/super.html)**
+- **[Dale click para ingresar](super.html)**
